@@ -1,0 +1,17 @@
+﻿Build started 2/3/2017 10:59:33 PM.
+     1>Project "G:\F\Letsflap_bismillah\Letsflap_bismillah\Letsflap_bismillah.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Letsflap_bismillah.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Letsflap_bismillah.vcxproj -> G:\F\Letsflap_bismillah\Letsflap_bismillah\Debug\Letsflap_bismillah.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Letsflap_bismillah.unsuccessfulbuild".
+         Touching "Debug\Letsflap_bismillah.lastbuildstate".
+     1>Done Building Project "G:\F\Letsflap_bismillah\Letsflap_bismillah\Letsflap_bismillah.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
